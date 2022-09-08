@@ -1,12 +1,12 @@
 <div style="display: inline-block"> 
 
-# Sobre mim
+## Sobre mim
 
-### 🧑‍💻 Nicholas Silva, 17 anos. 
-### 🔭 Atualmente trabalhando no meu TCC. 
-### 🙇‍♂️ Idiomas: Inglês.
-### 🌱 Atualmente aprendendo: ReactJS, MySQL, NodeJS e o idioma Russo. 
-### 📡 Como me contatar: doctorredac@gmail.com
+#### 🧑‍💻 Nicholas Silva, 17 anos. 
+#### 🔭 Atualmente trabalhando no meu TCC. 
+#### 🙇‍♂️ Idiomas: Inglês.
+#### 🌱 Atualmente aprendendo: ReactJS, MySQL, NodeJS e o idioma Russo. 
+#### 📡 Como me contatar: doctorredac@gmail.com
 
 
 &nbsp;
@@ -16,7 +16,7 @@
 
 </div> 
 
-## Linguagens e banco de dados 
+### Linguagens e banco de dados 
 
 <div style="display: inline-block"> 
 
@@ -32,17 +32,17 @@
 
 </div> 
 
-## Frameworks e Libs 
-
 <div  style="display: inline-block"> 
 
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+### Frameworks e Libs 
+
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 </div> 
 
-## IDE's
-
 <div style="display: inline-block"> 
+
+### IDE's
 
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
