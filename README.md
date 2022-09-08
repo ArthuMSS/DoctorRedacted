@@ -2,7 +2,7 @@
 
 # Sobre mim
 
-###🧑‍💻 Nicholas Silva, 17 anos. 
+### 🧑‍💻 Nicholas Silva, 17 anos. 
 ### 🔭 Atualmente trabalhando no meu TCC. 
 ### 🙇‍♂️ Idiomas: Inglês.
 ### 🌱 Atualmente aprendendo: ReactJS, MySQL, NodeJS e o idioma Russo. 
