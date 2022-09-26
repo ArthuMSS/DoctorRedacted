@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🧑‍💻 Nicholas Silva, 17 anos. 
-- 🔭 Atualmente trabalhando no meu TCC. 
+- 👾 Objetivo: Trabalhar com tecnologias de desenvolvimento back-end, e ingressar na área de "Segurança da Informação".
 - 🙇‍♂️ Idiomas: Inglês.
 - 🌱 Atualmente aprendendo: ReactJS, MySQL, NodeJS, C e o idioma russo. 
 - 📡 Como me contatar: doctorredac@gmail.com
